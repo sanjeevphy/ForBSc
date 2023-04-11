@@ -5,8 +5,8 @@ This repository is mainly for programms discussed with B.Sc. hons 3rd year stude
 [README](README.md) file, to tell about directory  
 [NR.c](NR.c) program for Newton Raphson method  
 [NR_square.c](NR_square.c) calculate square root with Newton Raphson method  
-[akshika01.c](akshika01.c)  
-[akshika02.c](akshika02.c)  
+[akshika01.c](akshika01.c "This program was answer of question by Anshika") use of `return 0;` statement  
+[akshika02.c](akshika02.c "This program was answer of question by Anshika") use if `if` statement without condition  
 [array1.c](array1.c)  
 [array2.c](array2.c)  
 [array3.c](array3.c)  
