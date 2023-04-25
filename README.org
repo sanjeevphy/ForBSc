@@ -1,0 +1,84 @@
+* ForBSc
+This repository is mainly for programms discussed with B.Sc. hons 3rd year students
+
+- [[CNAME][CNAME]] file, to tell where to forward
+- [[README.org][README]] file, to tell about directory  
+- [[NR.c][NR.c]] program for Newton Raphson method  
+- [[NR_square.c][NR_square.c]] calculate square root with Newton Raphson method  
+- [[akshika01.c][akshika01.c]] This program was answer of question by Anshika use of =return 0;= statement  
+- [[akshika02.c][akshika02.c]] This program was answer of question by Anshika use if =if= statement without condition  
+- [[array1.c][array1.c]] declare and print array
+- [[array2.c][array2.c]] assign values and print array
+- [[array3.c][array3.c]] printing array beyond it's limit
+- [[bessel.c][bessel.c]] Bessel function with series expansion
+- [[bisection.c][bisection.c]] Bisection method to solve algebraic and transcendental equations
+- [[break.c][break.c]] =break= statement in a loop
+- [[cal.c][cal.c]] addition, subtraction, multiplication, division and remainder of two integers.
+- [[cal2.c][cal2.c]] multiple binary arithmetic operations of integers in a single line
+- [[cal3.c][cal3.c]] arithmetic operation with decision making (calculator for two integers.)
+- [[cal4.c][cal4.c]] calculator for two integers with function
+- [[char.c][char.c]] character representation as 8 bit integers when looping over =int= values.
+- [[char2int.c][char2int.c]] character representation as integers when looping over =char= values.
+- [[condition_print.c][condition_print.c]] printing logical statements
+- [[cuberoot.c][cuberoot.c]] cube root of a given number using Newton Raphson method
+- [[diamond.c][diamond.c]] printing a diamond (rhombus) made of asterisk
+- [[diffDataType.c][diffDataType.c]] integers in decimal, octal and hexadecimal format.
+- [[diffTable.c][diffTable.c]] difference table of given data
+- [[digit1.c][digit1.c]] reading and writing one digit integers.
+- [[digits.c][digits.c]] testing a number for Palindrome.
+- [[dowhile.c][dowhile.c]] =do-while= statement
+- [[esc.c][esc.c]] printing behaviour of =\t= means tab.
+- [[euler.c][euler.c]] Euler method to solve ordinary differential equation
+- [[ex10Aug_01.c][ex10Aug_01.c]] decision making on float number comparison
+- [[expon.c][expon.c]] Exponential fit of data: /y/ = /ae^{ bx/ }
+- [[exponential.c][exponential.c]] calculation of /e^{x}/ with series expansion
+- [[first.c][first.c]] first c-program to print simple string.
+- [[function1.c][function1.c]] user defined function for square
+- [[function2.c][function2.c]] function without input and without output
+- [[function3.c][function3.c]] function with input and without output
+- [[function4.c][function4.c]] function with input and output both
+- [[function5.c][function5.c]] recursive function, function which uses itself to make it recursive
+- [[function6.c][function6.c]] power calculation and fibonacci series calculation with recursive function
+- [[goto_statement.c][goto_statement.c]] =go-to= statement (deprecated to use)
+- [[hermite.c][hermite.c]] calculate of Hermite polynomial
+- [[histogram.c][histogram.c]]
+- [[ifelse.c][ifelse.c]]
+- [[integration.c][integration.c]]
+- [[lagrange.c][lagrange.c]]
+- [[laguerre.c][laguerre.c]]
+- [[lcm.c][lcm.c]]
+- [[leap_year.c][leap_year.c]]
+- [[legendre.c][legendre.c]]
+- [[legendre_rec.c][legendre_rec.c]]
+- [[linear.c][linear.c]]
+- [[lower_triangle.c][lower_triangle.c]]
+- [[machine.c][machine.c]]
+- [[mathlb.c][mathlb.c]]
+- [[matrix1.c][matrx1.c]]
+- [[matrix2.c][matrx2.c]]
+- [[matrix3.c][matrx3.c]]
+- [[matrix4.c][matrx4.c]]
+- [[matrix5.c][matrx5.c]]
+- [[matrx.c][matrx.c]]
+- [[max_min.c][max_min.c]]
+- [[nikita1.c][nikita1.c]]
+- [[prime.c][prime.c]]
+- [[printfloat.c][printfloat.c]]
+- [[printint.c][printint.c]]
+- [[printstr.c][printstr.c]]
+- [[printstr1.c][printstr1.c]]
+- [[q4.c][q4.c]]
+- [[quadratic.c][quadratic.c]]
+- [[regulaF.c][regulaF.c]]
+- [[rk4.c][rk4.c]]
+- [[simp13.c][simp13.c]]
+- [[simp13_v2.c][simp13_v2.c]]
+- [[spline_linear.c][spline_linear.c]]
+- [[spline_linear_v2.c][spline_linear_v2.c]]
+- [[square.c][square.c]]
+- [[table1.c][table1.c]]
+- [[taylor.c][taylor.c]]
+- [[test150920.c][test150920.c]]
+- [[trap.c][trap.c]]
+-----
+- [[https://docs.google.com/presentation/d/1cn0Ho6UY-e1NxY3wRim_PhYm6Z9bEo7nX6RWA6ehSY8/preview][These slides may be helpful.]]
