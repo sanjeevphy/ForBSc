@@ -1,8 +1,8 @@
 * ForBSc
 This repository is mainly for programms discussed with B.Sc. hons 3rd year students
 
-- [[CNAME][CNAME]] file, to tell where to forward
-- [[README.org][README]] file, to tell about directory  
+- [X] [[CNAME][CNAME]] file, to tell where to forward
+- [X] [[README.org][README]] file, to tell about directory  
 - [[NR.c][NR.c]] program for Newton Raphson method  
 - [[NR_square.c][NR_square.c]] calculate square root with Newton Raphson method  
 - [[akshika01.c][akshika01.c]] This program was answer of question by Anshika use of =return 0;= statement  
@@ -41,44 +41,47 @@ This repository is mainly for programms discussed with B.Sc. hons 3rd year stude
 - [[function6.c][function6.c]] power calculation and fibonacci series calculation with recursive function
 - [[goto_statement.c][goto_statement.c]] =go-to= statement (deprecated to use)
 - [[hermite.c][hermite.c]] calculate of Hermite polynomial
-- [[histogram.c][histogram.c]]
-- [[ifelse.c][ifelse.c]]
-- [[integration.c][integration.c]]
-- [[lagrange.c][lagrange.c]]
-- [[laguerre.c][laguerre.c]]
-- [[lcm.c][lcm.c]]
-- [[leap_year.c][leap_year.c]]
-- [[legendre.c][legendre.c]]
-- [[legendre_rec.c][legendre_rec.c]]
-- [[linear.c][linear.c]]
-- [[lower_triangle.c][lower_triangle.c]]
-- [[machine.c][machine.c]]
-- [[mathlb.c][mathlb.c]]
-- [[matrix1.c][matrx1.c]]
-- [[matrix2.c][matrx2.c]]
-- [[matrix3.c][matrx3.c]]
-- [[matrix4.c][matrx4.c]]
-- [[matrix5.c][matrx5.c]]
-- [[matrx.c][matrx.c]]
-- [[max_min.c][max_min.c]]
-- [[nikita1.c][nikita1.c]]
-- [[prime.c][prime.c]]
-- [[printfloat.c][printfloat.c]]
-- [[printint.c][printint.c]]
-- [[printstr.c][printstr.c]]
-- [[printstr1.c][printstr1.c]]
-- [[q4.c][q4.c]]
-- [[quadratic.c][quadratic.c]]
-- [[regulaF.c][regulaF.c]]
-- [[rk4.c][rk4.c]]
-- [[simp13.c][simp13.c]]
-- [[simp13_v2.c][simp13_v2.c]]
-- [[spline_linear.c][spline_linear.c]]
-- [[spline_linear_v2.c][spline_linear_v2.c]]
-- [[square.c][square.c]]
-- [[table1.c][table1.c]]
-- [[taylor.c][taylor.c]]
-- [[test150920.c][test150920.c]]
-- [[trap.c][trap.c]]
+- [[histogram.c][histogram.c]] to print horizontal histogram
+- [[ifelse.c][ifelse.c]] =if-else= statement in wrong way.
+- [[integration.c][integration.c]] integration of a given function using trapezoidal and simpson 1/3 method and comparison.
+- [[lagrange.c][lagrange.c]] Lagrange interpolation
+- [[laguerre.c][laguerre.c]] Laguerre polynomials using series expansions
+- [[lcm.c][lcm.c]] Least Common Multiple (LCM) and Highest Common Factor (HCF) of two integers.
+- [[leap_year.c][leap_year.c]] leap year calculation using nested =if-else=
+- [[legendre.c][legendre.c]]  Legendre polynomials using polynomial form
+- [[legendre_rec.c][legendre_rec.c]]  Legendre polynomials using polynomial form with recrusion.
+- [[linear.c][linear.c]] Linear fit of data
+- [[lower_triangle.c][lower_triangle.c]] program to print lower triangle using asterisks.
+- [[machine.c][machine.c]] speed test of our machine.
+- [[mathlb.c][mathlb.c]] introduction to math library functions
+- [[matrix1.c][matrx1.c]] addition of given two matrices
+- [[matrix2.c][matrx2.c]] multiplication of given two matrices
+- [[matrix3.c][matrx3.c]] sum of rows and columns of a given matrix and trash of given matrix
+- [[matrix4.c][matrx4.c]] printing only upper triangular matrix.
+- [[matrix5.c][matrx5.c]] Transpose of a matrix
+- [[matrx.c][matrx.c]] Inverse of a given square matrix (program will work only for non-singular matrices)
+- [[max_min.c][max_min.c]] largest in given three integers
+- [[nikita1.c][nikita1.c]] same as =matrix.c= to answer some queries of a student.
+- [[prime.c][prime.c]] prime numbers in a given range.
+- [[printfloat.c][printfloat.c]] print float numbers
+- [[printint.c][printint.c]]  print integers
+- [[printstr.c][printstr.c]] print strings/characters
+- [[printstr1.c][printstr1.c]] print only strings
+- [[q4.c][q4.c]] simple calculation of the square of the magnitude of a given 2D vector
+- [[quadratic.c][quadratic.c]] Roots of quadratic equation
+- [[regulaF.c][regulaF.c]] Regula falsi method to solve algebraic and transcendental equations
+- [[rk4.c][rk4.c]] Runge Kutta (RK4) method
+- [[simp13.c][simp13.c]] Inegration by Simpson 1/3  method.
+- [[simp13_v2.c][simp13_v2.c]] another version of integration by Simpson 1/3 method.
+- [[spline_linear.c][spline_linear.c]] Linear spline interpolation
+- [[spline_linear_v2.c][spline_linear_v2.c]] another version of linear spline interpolation
+- [[square.c][square.c]] printing a square of asterisks.
+- [[table1.c][table1.c]] printing table of a given number.
+- [[taylor.c][taylor.c]] Taylor series sum of =log(1+x)= for =|x| < 1=
+- [[test150920.c][test150920.c]] test program to answer a question from student, where we print a float number as integer.
+- [[trap.c][trap.c]] Integration by trapezoidal rule
 -----
 - [[https://docs.google.com/presentation/d/1cn0Ho6UY-e1NxY3wRim_PhYm6Z9bEo7nX6RWA6ehSY8/preview][These slides may be helpful.]]
+#+BEGIN_COMMENT
+- [[https://docs.google.com/presentation/d/17C0WmAituZSCwGwZtt00BaIFy44uDXVe_G7NiGRaZS0/preview][Some more addition in slides.]]
+#+END_COMMENT
